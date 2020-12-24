@@ -1,2 +1,5 @@
 server:
   port:9966
+
+config:
+  info: main  config-dev.yml info
