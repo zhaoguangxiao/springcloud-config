@@ -1,1 +1,3 @@
 
+config:
+  info: main  config-test.yml info
