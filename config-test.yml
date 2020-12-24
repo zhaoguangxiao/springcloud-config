@@ -1,7 +1,2 @@
-
 config:
   info: main  config-test.yml info version =1  
-
-
-config:
-  test:hello word
