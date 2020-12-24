@@ -1,7 +1,7 @@
 
 config:
-  info: main  config-test.yml info version =1 
+  info: main  config-test.yml info version =1  
 
 
-server:
-  port: 9999
+config:
+  test:hello word
